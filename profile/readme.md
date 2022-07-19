@@ -1,6 +1,5 @@
 # Artic Blush
-## Dark Preview
-<img align="center" src="https://github.com/articblush/.github/blob/main/src/articblushdark.png">
+## Shades Preview
+<img align="center" src="https://github.com/articblush/.github/blob/main/src/articblush.png">
 
-## Light Preview
-<img align="center" src="https://github.com/articblush/.github/blob/main/src/articblushlight.png">
+> The theme is still WIP we will be adding more ports soon
