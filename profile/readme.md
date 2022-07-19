@@ -1,4 +1,4 @@
-# Artic Blush Colorscheme
+# Artic Blush
 ## Dark Preview
 <img align="center" src="https://github.com/articblush/.github/blob/main/src/articblushdark.png">
 
