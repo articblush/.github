@@ -1,5 +1,5 @@
 # Artic Blush
-<img align="center" src="https://github.com/articblush/.github/blob/main/src/shades.png">
+A cold colorsheme for you!
 
 ```css
 # Artic Blush Colorscheme with hexcodes
