@@ -1,5 +1,5 @@
 # Artic Blush
-A cold colorsheme for you!
+A cold colorscheme for you!
 
 ```css
 # Artic Blush Colorscheme with hexcodes
