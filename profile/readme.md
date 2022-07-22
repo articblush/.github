@@ -2,7 +2,12 @@
 A cold colorscheme for you!
 
 ```                 
-# Artic Blush Colorscheme with hexcodes
+   _        _   _        _     _           _     
+  /_\  _ __| |_(_) ___  | |__ | |_   _ ___| |__  
+ //_\\| '__| __| |/ __| | '_ \| | | | / __| '_ \ 
+/  _  \ |  | |_| | (__  | |_) | | |_| \__ \ | | |
+\_/ \_/_|   \__|_|\___| |_.__/|_|\__,_|___/_| |_|
+                                                 
 
     background: '#0b0d10' 
 Dark Colors:
