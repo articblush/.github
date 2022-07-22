@@ -13,7 +13,7 @@ Dark Colors:
     blue:    '#5966f2' #updated
     magenta: '#ecc6e8' #updated
     cyan:    '#80ffff' #updated
-    white:   '#80ffff' #updated
+    white:   '#d2daf4' #updated
  Normal Colors:
     black:   '#17252A' #updated
     red:     '#FF7377' #updated
