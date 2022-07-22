@@ -12,7 +12,7 @@ Dark Colors:
     yellow:  '#e2d06a' #updated
     blue:    '#5966f2' #updated
     magenta: '#ecc6e8' #updated
-    cyan:    '#00FFFF'
+    cyan:    '#80ffff' #updated
     white:   '#d2daf4' #updated
  Normal Colors:
     black:   '#17252A' #updated
@@ -21,8 +21,9 @@ Dark Colors:
     yellow:  '#eadd94' #updated
     blue:    '#8992f6' #updated
     magenta: '#f9ecf7' #updated
-    cyan:    '#E0FFFF'
+    cyan:    '#b3fff'  #updated
     white:   '#d2daf4' #updated
 
+#updated = ver 3.0
 ```
-> Some Repos are private due to fix a small issue with the colorscheme
+> Version : 3.0
