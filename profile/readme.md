@@ -1,15 +1,7 @@
 # Artic Blush
 A cold colorscheme for you!
 
-```css
-
-               /\            
-              /  \
-             /    \
-            /  __  \
-           /  /  \  \
-          /___|   |__\
-          
+```                 
 # Artic Blush Colorscheme with hexcodes
 
     background: '#0b0d10' 
