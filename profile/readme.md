@@ -25,4 +25,4 @@ Dark Colors:
     white:   '#d2daf4'
 
 ```
-> Updated to Ver : 2.0
+> Some Repos are private due to fix a small issue with the colorscheme
