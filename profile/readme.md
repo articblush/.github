@@ -16,7 +16,8 @@ A cold colorscheme for you!
 \_/ \_/_|   \__|_|\___| |_.__/|_|\__,_|___/_| |_|
                                                  
 
-    background: '#0b0d10' 
+background:  '#0b0d10' 
+
 Dark Colors:
     black:   '#17252A' 
     red:     '#E6676B' 
@@ -26,7 +27,7 @@ Dark Colors:
     magenta: '#ecc6e8' 
     cyan:    '#80ffff' 
     white:   '#c2ccf0' 
- Normal Colors:
+Normal Colors:
     black:   '#17252A' 
     red:     '#FF7377' 
     green:   '#AAF0C1' 
