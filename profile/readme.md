@@ -21,7 +21,7 @@ Dark Colors:
     yellow:  '#eadd94' #updated
     blue:    '#8992f6' #updated
     magenta: '#f9ecf7' #updated
-    cyan:    '#b3fff'  #updated
+    cyan:    '#01b7cc'  #updated
     white:   '#d2daf4' #updated
 
 #updated = ver 3.0
