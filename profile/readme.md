@@ -39,4 +39,4 @@ Normal Colors:
 
 
 ```
-> Version : 3.0 | This theme is based on ok-theme most of the colors are original
+> Version : 3.0 | Original colors if making colorschemes based on us credits will be appreciated.
