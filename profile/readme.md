@@ -39,4 +39,4 @@ Normal Colors:
 
 
 ```
-> Version : 3.0 | Original colors if making colorschemes based on us credits will be appreciated.
+> Version : 4.0 | Original colors if making colorschemes based on us credits will be appreciated.
