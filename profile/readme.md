@@ -28,7 +28,7 @@ Dark Colors:
     cyan:    '#80ffff' 
     white:   '#c2ccf0' 
 Normal Colors:
-    black:   '#17252A' 
+    black:   '#1b2c31' 
     red:     '#FF7377' 
     green:   '#AAF0C1' 
     yellow:  '#eadd94'
