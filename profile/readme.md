@@ -16,19 +16,24 @@ A cold colorscheme with for you!
 \_/ \_/_|   \__|_|\___| |_.__/|_|\__,_|___/_| |_|
                                                  
 
-background:  '#0b2442' 
-forebackground '#cce9ea'
-Dark Colors:
-    black:   '#17252A' 
+colors:
+  primary:
+    background: '#040c16'
+    foreground: '#cce9ea'
+  cursor:
+    text:   '#c2cae2'
+    cursor: '#d9d7d6'
+  bright:
+    black:   '#323949' 
     red:     '#E6676B' 
     green:   '#A2E4B8' 
     yellow:  '#e2d06a' 
     blue:    '#92bbed' 
     magenta: '#ecc6e8' 
     cyan:    '#80ffff' 
-    white:   '#cfebec' 
-Normal Colors:
-    black:   '#1b2c31' 
+    white:   '#cfebec'
+  normal:
+    black:   '#3d3e51' 
     red:     '#FF7377' 
     green:   '#AAF0C1' 
     yellow:  '#eadd94'
@@ -36,6 +41,7 @@ Normal Colors:
     magenta: '#f9ecf7' 
     cyan:    '#b3ffff' 
     white:   '#edf7f8' 
+
 
 
 ```
