@@ -1,7 +1,4 @@
-<h2 align="center">Articblush Theme</h2> 
- <h3 align="center"> A cold & comfy theme for you!</h3>
-   
- ---
+
 
 ![Banner](https://github.com/articblush/.github/blob/main/src/articblushbanner.png)
 
