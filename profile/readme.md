@@ -1,6 +1,6 @@
 
 
-![Banner](https://github.com/articblush/.github/blob/main/src/articblushbanner.png)
+![Banner](https://github.com/articblush/.github/blob/main/src/articbanner.png)
 <!-- BADGES -->
 <h1>
  <a href="https://discord.gg/kDem3n3Wuh">
